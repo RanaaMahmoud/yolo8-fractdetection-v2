@@ -1,2 +1,7 @@
+opencv-python-headless
 streamlit
-pandas
+ultralytics
+Pillow
+numpy
+requests
+pandase
