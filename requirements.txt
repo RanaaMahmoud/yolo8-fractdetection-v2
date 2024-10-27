@@ -1,4 +1,3 @@
-opencv-python==4.5.5.62
 streamlit
 ultralytics
 Pillow
