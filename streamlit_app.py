@@ -8,6 +8,12 @@ from PIL import Image
 from ultralytics import YOLO
 from datetime import datetime
 
+try:
+    GITHUB_TOKEN = st.secrets["github"]["token"]
+except KeyError:
+    st.error("GitHub token not found. Please check your secrets.toml file.")
+
+
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
