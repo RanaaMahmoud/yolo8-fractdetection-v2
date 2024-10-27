@@ -4,4 +4,4 @@ ultralytics
 Pillow
 numpy
 requests
-pandase
+pandas
