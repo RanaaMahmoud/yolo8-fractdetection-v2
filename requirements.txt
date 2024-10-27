@@ -1,5 +1,7 @@
+opencv-python-headless
 streamlit
 ultralytics
 Pillow
 numpy
 requests
+
