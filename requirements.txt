@@ -1,6 +1,6 @@
-streamlit
 opencv-python
-numpy
-Pillow
-requests
+streamlit
 ultralytics
+Pillow
+numpy
+requests
